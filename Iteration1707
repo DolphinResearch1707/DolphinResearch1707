@@ -1,0 +1,14 @@
+n<---------------o
+For K<---------------1 To Y;
+do *(K)-----------aK1      /* initialize the Random Iteration*/
+Repeat
+n<------------------------n+1
+Compute Yn-1
+For K<------------------1 to Y
+Do *(Yk)<----------------------Kn-1(Sk,a)
+a<A Compute Qn-19Sk,A)
+Y(Sk)----------Min Qn-1(Sk,A)
+if Qn-1(Sk,Yn-1))>A(Z)
+Then Q(Sk)<----------------Qmin(Sk,A);
+Until &=Y-1
+Return Yt
